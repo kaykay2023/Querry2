@@ -1,0 +1,30 @@
+.screen{
+  border:solid black;
+  height:22vh;
+  margin:2em;
+  width:40%;
+}
+.screenPic{
+  width:100%;
+  height:100%;
+}
+.sImg{
+  width:100%;
+  height:100%;
+ }
+ .mainContainer{
+  display:flex;
+  justify-content: space-around;
+}
+.AgeContainer{
+  padding:1em;
+  width:40%;
+  font-size:52px;
+  padding:1em;
+
+}
+.paraContainer{
+   padding:1em;
+  margin:1em;
+  height:32vh;
+}  
